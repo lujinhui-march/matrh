@@ -1,4 +1,5 @@
 hello 
 so
-u
 ouy
+sout()
+add sout()
